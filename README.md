@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vpy97
-- 👀 I’m interested in: art finance & investments, machine learning, crypto art, NFTs, AI art 
+- 👀 I’m interested in: art finance & investments, AI/ML for art, crypto art, NFTs 
 - 🌱 I’m currently learning: python 
 - 💞️ I’m looking to collaborate on: [[pending projects]]
 - 📫 How to reach me: valeriepangyn@gmail.com
